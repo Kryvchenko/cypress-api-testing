@@ -12,4 +12,4 @@
 
 ### `npm run start`
 
-### Now server is runnimg on localhost:3000, fell to run tests via `npx cypress open` command
+### Now server is runnibg on localhost:3000, feel to run tests via `npx cypress open` command
